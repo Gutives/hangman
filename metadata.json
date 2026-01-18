@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Lexicon Hangman",
+  "description": "An AI-powered Hangman game that provides educational dictionary definitions or context-rich hints for each word, powered by Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
